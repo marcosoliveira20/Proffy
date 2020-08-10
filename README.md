@@ -31,7 +31,7 @@ Clonar o repositório
 git clone https://github.com/marcosoliveira20/Proffy
 
 Entrar no diretório
-cd pProffy
+cd Proffy
 
 Baixar as dependências
 npm i
